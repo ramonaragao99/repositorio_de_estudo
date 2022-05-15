@@ -1,0 +1,61 @@
+1 - Um método deve ser público, sem retorno, se chamar xpto, tem um int como parâmetro  e ter corpo vazio. 
+Baseado nessa especificação, qual é a definição correta?
+x
+public void xpto(int i){}
+x
+2 - A partir do método a seguir, marque a alternativa CORRETA:
+
+public int verifica(int i) {...}
+
+"public int verifica(int i){retunr 0;}" é uma implementação valida
+
+3- Avalie o método a seguir e marque a alternativa CORRETA:
+x
+public void verifica(int i) {
+   if (i > 1) {
+     return “Maior”;
+   } else {
+     return “Menor”;   
+   }
+}
+x
+Ocorre um erro de compilação, pois o métodos "void" não tem retorno;
+
+4 - Tendo o método a seguir, marque o que for INCORRETO:
+
+public double calcularTotalNota() {…}
+
+Ele pode retonrnar u valor do tipo texto
+
+5 - Sobre métodos, marque o que for VERDADE:
+
+Todo método deve ter um nome
+
+6 - Em relação a assinatura de um método, marque o CORRETO:
+
+É constituida do nome e lista de parâmetro do método
+
+7 - Avalie o método a seguir e marque a alternativa INCORRETA:
+x
+public String verifica(int idade) 
+   if (idade > 18) {
+     return “Maior de idade”;
+   } else {
+     return “Menor de idade”;   
+   }
+x
+O corpo do método está definido corretamente
+
+8 - Sobre métodos, marque o que for INCORRETO:
+
+Os parênteses são opcionais na definição de métodos
+
+9 - Sobre métodos, marque o que for INCORRETO:
+
+Métodos só podem ser utilizados a partir de classes, de forma estática
+
+10 - Tendo o método a seguir, qual não é uma sobrecarga válida?
+
+public int avaliar()
+x 
+public int avalia(double i)
