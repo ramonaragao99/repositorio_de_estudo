@@ -1,0 +1,40 @@
+1 - Qual valor default está errado?
+
+Tipo caractere = null
+Tipo numérico = inteiro 0, real 0.0( ou 0.0d, ou 0L)
+
+2 - Sobre tipos de dados, assinale o incorreto.
+
+String é um tipo de dado primitivo
+
+3 - Sobre variáveis em Java, podemos afirmar que:
+
+o tipo da variável é obrigatório
+
+4 - Sobre os tipos de variáveis, marque a opção correta.
+
+Classe pertencem à classe
+
+5 - Marque a opção correta.
+
+"QUANTIDADE_$_OPCOES" é uma definiçao valida de variavel em java
+
+6 - Qual conversão gera erro de compilação?
+
+float f = double
+
+7 - O resultado da expressão “10 - 5 * 2 + --i”, onde i = 3 é ...
+
+2
+
+8 - Sobre operadores aritméticos, marque o correto.
+
+Atribuições possuem a menor precedência
+
+9 - Marque o incorreto em relação a tipos de dados.
+
+Tipos de dado primitivos são heterogêneo
+
+10 - Qual das opções abaixo não é uma variável aceita pela linguagem Java?
+
+1abc

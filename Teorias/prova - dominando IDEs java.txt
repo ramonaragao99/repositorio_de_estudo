@@ -1,0 +1,43 @@
+1 - o que significa JDK ?
+
+java developer kit
+
+2 - O que é o java JKD ?
+
+É um kit de desenvolvimento Java que inclui tudo o que é necessário para a construção de soluções
+nessa liguagem de programação
+
+3 - Quais opções são ediçoes da distribuição Java ?
+
+Java SE (Standard Edition), Java EE (Enterprise Edition) e Java ME (Micro Edition)
+
+4 - Quais das alternativas a seguir são outras linguagens da plataforma Java?
+
+Groovy, Jython e JRuby
+
+5 - O que é a JVM?
+
+A java Virtual Machine (JVM) é a maquina virtual do Java responsável por exetucar o bytecode (.class).
+
+6 - O que é o JRE?
+
+O Java Runtime Environmente (JRE) é o ambiente de execução multiplataforma que fornece as 
+bibliotecas padrões do Java para o JDK compilar o seu código e a JVM executá-lo posteriormente
+
+7 - Qual é a importância de um IDE?
+
+prover um ambiente de desenvolvimento completo, visando o ganho de produtividade e sinerfia
+com as principais padrões e convenções do mercado
+
+8 - Qual das alternativas a seguir apresentam apenas IDEs Java?
+
+Intellij, Eclipe e Visual Studio Code (VSCode)
+
+9 - Qual a principal vantagem da plataforma Java?
+
+Não depender de apenas um único software ou hardware, podendo ser emulado por uma maquina virtual
+
+10 - O que é um IDE?
+
+IDE (Ambiente de desenvolvimento integrado) é um software que combina ferramentas comuns de desenvolvimento
+em uma única interface gráfica do usuário (GUI), facilitando o desenvolvimento de aplicações

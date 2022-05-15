@@ -1,0 +1,39 @@
+1 - Aprendemos que alguns comandos podem variar de acordo com o sistema operacional usado. Com isso em mente, o que o comando dir, no Windows e ls, no Linux fazem ?
+
+Retorna uma lista com o contúdo contido naquele diretório especifico
+
+2 - O que o comando Git init faz?
+
+inicializa um reporsotiorio git na apsta em questao
+
+3 - Qual a diferença do seu ambiente de desenvolvimento e do servidor?
+
+seu ambiente de desenvolvimento é o local e o servidor, remoto
+
+4 - O que é um sistema distribuído?
+
+um sistema que possui multiplas copias de si mesmo em diferentes locais
+
+5 - O que acontece quando você gera commits no seu repositório local com email e nickname diferentes dos utilizados no GitHub?
+
+os commmits aparececão com email e nickname diferentes no github
+
+6 - O que o comand git clone faz?
+
+faz um clone do repositorio remoto em seu respositorio local
+
+7 - Quando você tenta empurrar (push) o código para o GitHub e o seu commit não representa o estado mais atual do repositório o git irá:
+
+pedir para voce fazer um pull e depois um push
+
+8 - O que é um arquivo do tipo Markdown?
+
+um arquivo que usa caracteres especias como # para formatar o texto
+
+9 - O que o GIT é?
+
+um sistema de versionamento de codigo distribuido
+
+10 - Qual o comando usado para inicializar o GIT dentro de uma pasta?
+
+git init
