@@ -12,8 +12,8 @@ _**é aqui onde eu organizo todas minhas atividades, mas bora se aprensentar !!*
 
 * Sou dedicado a tudo que gosto de fazer (_**As vezes se torna problema, pois não consigo dividir as coisas normais da vida, mas tenho trabalhado nisso**_) 😆
 
-* Meu intuito ao criar esse repositório é disponibilizar na nuvem todos os estudos que faço, e obte ajudar dos que se disponibilizarem dar ajuda 💗
+* Meu intuito ao criar esse repositório é disponibilizar na nuvem todos os estudos que faço, e obte ajudar dos que se disponibilizarem dar ajuda 😉
 
-* No entanto é isso, muito obrigado por ler ! 🥰
+* No entanto é isso, muito obrigado por ler ! 👌
 
 * Segue meu email ramon.aragao99@gmail.com (_**Pode entrar em contato sem medo kkk**_) 😎 
