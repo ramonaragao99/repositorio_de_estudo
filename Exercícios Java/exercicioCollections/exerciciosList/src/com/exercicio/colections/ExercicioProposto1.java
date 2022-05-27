@@ -25,9 +25,10 @@ public class ExercicioProposto1 {
 
         //calculando e exibindo a média das temperaturas:
         double media = temperaturas.stream()
-                .mapToDouble(Double::doubleValue)
+                .mapToDouble(Double::doubleValue) //Se quisermos usar o fluxo(Stream) em um valor Integer encaixotado,
+                // devemos primeiro converter o fluxo(Stream) em IntStream, ou DoubleStream usando o método mapToInt, ou mapToDouble, dessa forma.
                 .average()
-                .orElse(0d);
+                .orElse(Double.NaN);
         System.out.printf("\nMédia das temperaturas: %.1f\n", media);
 
         //exibindo as temperaturas acima da média
